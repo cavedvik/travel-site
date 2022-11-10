@@ -1,0 +1,19 @@
+{
+  "name": "travel-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cavedvik/travel-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cavedvik/travel-site/issues"
+  },
+  "homepage": "https://github.com/cavedvik/travel-site#readme"
+}
